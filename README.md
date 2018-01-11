@@ -6,7 +6,9 @@ This is a CRUD App with Angular CLI and TypeScript
 
 - I have follow this tutorial: [http://adrianmejia.com/blog/2016/10/01/Angular-2-Tutorial-Create-a-CRUD-App-with-Angular-CLI-and-TypeScript](http://adrianmejia.com/blog/2016/10/01/Angular-2-Tutorial-Create-a-CRUD-App-with-Angular-CLI-and-TypeScript) 
 
-The tutorial was not complete and some functions was not working and some features was not built. So I finish the project. You can see the result here on GitHub and I have also a live demo on  
+The tutorial was not complete and some functions was not working and some features was not built. So I finish the project. You can see the result here on GitHub.
+
+- I have a live demo on:   
 
 ## Development server
 

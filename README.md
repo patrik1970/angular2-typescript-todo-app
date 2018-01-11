@@ -8,7 +8,7 @@ This is a CRUD App with Angular CLI and TypeScript
 
 The tutorial was not complete and some functions was not working and some features was not built. So I finish the project. You can see the result here on GitHub.
 
-- I have a live demo on:   
+- I have a live demo on: [https://mytodo-26b73.firebaseapp.com] (https://mytodo-26b73.firebaseapp.com)   
 
 ## Development server
 

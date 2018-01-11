@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "todos2"
+    "name": "MyTodo"
   },
   "apps": [
     {
@@ -19,7 +19,8 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "styles.scss"
+        "styles.scss",
+        "../node_modules/todomvc-app-css/index.css"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",

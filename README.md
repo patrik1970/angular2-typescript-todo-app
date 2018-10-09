@@ -2,14 +2,6 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
 
-This is a CRUD App with Angular CLI and TypeScript
-
-- I have follow this tutorial: [http://adrianmejia.com/blog/2016/10/01/Angular-2-Tutorial-Create-a-CRUD-App-with-Angular-CLI-and-TypeScript](http://adrianmejia.com/blog/2016/10/01/Angular-2-Tutorial-Create-a-CRUD-App-with-Angular-CLI-and-TypeScript) 
-
-The tutorial was not complete and some functions was not working and some features was not built. So I finish the project. You can see the result here on GitHub.
-
-- I have a live demo on: [https://mytodo-26b73.firebaseapp.com] (https://mytodo-26b73.firebaseapp.com)   
-
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.

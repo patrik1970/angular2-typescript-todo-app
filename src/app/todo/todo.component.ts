@@ -12,12 +12,12 @@ import { TodoService } from './todo.service';
 })
 
 export class TodoComponent implements OnInit {
-	private todos;
-	private activeTasks;
-	private newTodo = '';
-	private path;
+	public todos;
+	public activeTasks;
+	public newTodo = '';
+	public path;
 
-  private lastId = 0;
+  public lastId = 0;
 
   constructor(private todoService: TodoService, private route: ActivatedRoute) { }
 

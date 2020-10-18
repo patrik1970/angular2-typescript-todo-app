@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
 
+## App description
+
+This is a todo app. You can write new todos. You can mark the todos as done when you have finished them. You can clear one single todos or you can clear all the completed todos. You can choose to view all the todos or only the uncompleted todos or only the completed todos.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
